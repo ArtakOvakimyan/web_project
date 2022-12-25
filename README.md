@@ -6,6 +6,7 @@ Contributors: Ovakimyan Artak(https://github.com/ArtakOvakimyan);
 
 # Использованные технологии
 - MongoDB (NoSQL СУБД)
+- Mongoose (ORM)
 - Mobx (Библиотека для отслеживания и управления состоянием компонент клиентской части)
 - React (Библиотека для проектирования клиентской части из react-компонент)
 - Node.js (Среда для создания приложения на языке javascript)
