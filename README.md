@@ -15,4 +15,5 @@ Contributors: Ovakimyan Artak(https://github.com/ArtakOvakimyan);
 
 # Использование
 npm start - в папке front
+
 node index.js - в папке server
